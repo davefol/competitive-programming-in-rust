@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/356_div2/B_Bear_and_Finding_Criminals/target/debug/B_Bear_and_Finding_Criminals: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/356_div2/B_Bear_and_Finding_Criminals/src/main.rs

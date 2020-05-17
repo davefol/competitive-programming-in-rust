@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/61_div2/B_Petya_and_Countryside/target/debug/B_Petya_and_Countryside: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/61_div2/B_Petya_and_Countryside/src/main.rs

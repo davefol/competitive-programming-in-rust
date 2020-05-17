@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/238_div2/A_Gravity_Flip/target/debug/A_Gravity_Flip: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/238_div2/A_Gravity_Flip/src/main.rs

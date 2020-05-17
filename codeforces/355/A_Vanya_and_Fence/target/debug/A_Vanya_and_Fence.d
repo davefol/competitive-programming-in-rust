@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/355/A_Vanya_and_Fence/target/debug/A_Vanya_and_Fence: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/355/A_Vanya_and_Fence/src/main.rs

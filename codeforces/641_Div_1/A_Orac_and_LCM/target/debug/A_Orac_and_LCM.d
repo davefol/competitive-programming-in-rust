@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/641/A_Orac_and_LCM/target/debug/A_Orac_and_LCM: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/641/A_Orac_and_LCM/src/main.rs
