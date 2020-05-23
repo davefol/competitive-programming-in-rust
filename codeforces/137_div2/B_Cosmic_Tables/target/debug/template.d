@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/137_div2/B_Cosmic_Tables/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/137_div2/B_Cosmic_Tables/src/main.rs

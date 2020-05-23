@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/1_divedu/A_Tricky_Sum/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/1_divedu/A_Tricky_Sum/src/main.rs

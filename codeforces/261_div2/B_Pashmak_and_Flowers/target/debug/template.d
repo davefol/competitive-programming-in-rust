@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/261_div2/B_Pashmak_and_Flowers/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/261_div2/B_Pashmak_and_Flowers/src/main.rs

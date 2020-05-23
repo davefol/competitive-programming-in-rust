@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/148_div2/A_Two_Bags_of_Potatoes/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/148_div2/A_Two_Bags_of_Potatoes/src/main.rs

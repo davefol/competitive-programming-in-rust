@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/221_div2/B_Fence/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/221_div2/B_Fence/src/main.rs

@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/84_div1/A_Lucky_Sum_of_Digits/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/84_div1/A_Lucky_Sum_of_Digits/src/main.rs

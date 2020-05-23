@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/215_div2/B_Sereja_and_Suffixes/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/215_div2/B_Sereja_and_Suffixes/src/main.rs

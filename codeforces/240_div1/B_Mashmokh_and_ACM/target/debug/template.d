@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/240_div1/B_Mashmokh_and_ACM/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/240_div1/B_Mashmokh_and_ACM/src/main.rs

@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/259_div1/A_Little_Pony_and_Expected_Maximum/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/259_div1/A_Little_Pony_and_Expected_Maximum/src/main.rs

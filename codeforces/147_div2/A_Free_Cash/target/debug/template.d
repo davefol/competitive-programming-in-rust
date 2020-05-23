@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/147_div2/A_Free_Cash/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/147_div2/A_Free_Cash/src/main.rs

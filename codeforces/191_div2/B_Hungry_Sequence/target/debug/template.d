@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/192_div2/B_Hungry_Sequence/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/192_div2/B_Hungry_Sequence/src/main.rs

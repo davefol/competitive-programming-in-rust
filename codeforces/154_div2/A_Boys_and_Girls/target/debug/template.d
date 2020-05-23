@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/154_div2/A_Boys_and_Girls/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/154_div2/A_Boys_and_Girls/src/main.rs

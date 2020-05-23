@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/186_div2/B_Ilya_and_Queries/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/186_div2/B_Ilya_and_Queries/src/main.rs

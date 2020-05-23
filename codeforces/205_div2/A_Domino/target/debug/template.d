@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/205_div2/A_Domino/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/205_div2/A_Domino/src/main.rs

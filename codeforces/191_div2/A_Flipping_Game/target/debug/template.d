@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/191_div2/A_Flipping_Game/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/191_div2/A_Flipping_Game/src/main.rs

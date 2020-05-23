@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/159_div2/B_Playing_Cubes/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/159_div2/B_Playing_Cubes/src/main.rs

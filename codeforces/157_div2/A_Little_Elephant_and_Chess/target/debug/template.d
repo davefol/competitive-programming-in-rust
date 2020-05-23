@@ -1,0 +1,1 @@
+/Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/157_div2/A_Little_Elephant_and_Chess/target/debug/template: /Users/davefol/punts/rust/competitive-programming-in-rust/codeforces/157_div2/A_Little_Elephant_and_Chess/src/main.rs
